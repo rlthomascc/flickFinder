@@ -1,0 +1,50 @@
+body{
+    zoom: 90%;
+    }
+
+body {
+    background-color: #292929;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    width: 70%;
+}
+
+.output {
+    padding: 50px 50px 50px 50px;
+    margin-bottom: 100px;
+}
+
+
+.form {
+    padding: 5px 30px 5px 30px;
+    text-align: center;
+    margin: 5% auto;
+};
+
+#loading {
+    position:relative;
+}
+
+#refresh {
+    text-align: center;
+    margin-right: auto;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #535353;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+a {
+    padding: 10px 10px 10px 10px;
+}
+
+#footer {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px
+}
